@@ -54,3 +54,30 @@ Finally, by including colons within the header row, you can define text to be le
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
+
+# Task lists
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> are supported
+- [x] list syntax is required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+# Task lists can be nested to better structure your tasks:
+
+- [ ] a bigger project
+  - [ ] first subtask #1234
+  - [ ] follow up subtask #4321
+  - [ ] final subtask cc @mention
+- [ ] a separate task
+
+# References
+
+Certain references are auto-linked:
+
+* SHA: ddd3e57edee8bad621fab67bb845247635cce445
+* User@SHA: otherness-space@ddd3e57edee8bad621fab67bb845247635cce445
+* User/Repository@SHA: otherness-space/sheetsee.ddd3e57edee8bad621fab67bb845247635cce445
+* #Num: #26
+* GH-Num: GH-26
+* User#Num: otherness-space#26
+* User/Repository#Num: otherness-space/sheetsee.js#26
