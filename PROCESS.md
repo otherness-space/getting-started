@@ -20,7 +20,7 @@ On branch master
 
 Initial commit
 
-*nothing to commit*
+<strong>nothing to commit</strong>
 usage: git remote add [<options>] <name> <url>
 
     -f, --fetch           fetch the remote branches
