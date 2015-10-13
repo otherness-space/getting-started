@@ -147,7 +147,10 @@ what is x
 
 [Visit Github](http:github.com)
 
+# Horizontal rules
+
 * * *
 - - -
 ***
 *****
+<code>Code</code>
