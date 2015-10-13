@@ -75,14 +75,6 @@ Finally, by including colons within the header row, you can define text to be le
 However, Chrome doesn't seem to render it at this time but it rendered the original...
 Certain references are auto-linked:
 
-* SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
-* User@SHA: jlord@a5c3785ed8d6a35868bc169f07e40e889087fd2e
-* User/Repository@SHA: jlord/sheetsee.js@a5c3785ed8d6a35868bc169f07e40e889087fd2e
-* #Num: #26
-* GH-Num: GH-26
-* User#Num: jlord#26
-* User/Repository#Num: jlord/sheetsee.js#26
-
 * SHA: ddd3e57edee8bad621fab67bb845247635cce445
 * User@SHA: otherness-space@ddd3e57edee8bad621fab67bb845247635cce445
 * User/Repository@SHA: otherness-space/sheetsee.ddd3e57edee8bad621fab67bb845247635cce445
