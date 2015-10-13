@@ -82,3 +82,67 @@ Certain references are auto-linked:
 * GH-Num: GH-26
 * User#Num: otherness-space#26
 * User/Repository#Num: otherness-space/sheetsee.js#26
+
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+
+# Blockquotes
+
+In the words of Abraham Lincoln:
+
+> Pardon my french
+
+# Unordered lists
+
+* 1
+* 2
+* 3
+
+- item
+- item
+- item
+
+# Ordered Lists
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+# Nested lists
+
+1. Item 1
+  1. A corollary to the above item.
+  2. Yet another point to consider.
+2. Item 2
+  * A corollary that does not need to be ordered.
+    * This is indented four spaces, because it's two spaces further than the item above.
+    * You might want to consider making a new list.
+3. Item 3
+
+# Code formatting
+
+## Inline formatting
+
+Single back ticks
+
+Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
+
+## Multiple lines
+
+Triple back ticks
+
+Check out this neat program I wrote:
+
+```
+x = 0
+x = 2 + 2
+what is x
+```
+
+# Links
+
+[Visit Github](http:github.com)
