@@ -129,7 +129,7 @@ In the words of Abraham Lincoln:
 
 Single back ticks
 
-Here's an idea: why don't we take `SuperiorProject` and turn it into **`Reasonable**Project`.
+Here's an idea: why don't we take `SuperiorProject` and turn it into `*Reasonable*Project`.
 
 ## Multiple lines
 
