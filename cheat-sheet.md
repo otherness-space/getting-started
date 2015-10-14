@@ -11,7 +11,6 @@ Confirm there is at least one file, empty or not. I usually install a README.md 
 LaptopNames-MBP:getting-started laptop-name$ ls
 
 LICENSE.md	README.md
-
 ```
 `git add . `
 
