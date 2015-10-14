@@ -2,12 +2,19 @@
 
 ## New local directory
 `cd /Users/user1/Documents/dir/dir/../`
+
 `git init`
+
 `git add . `
+
 `git commit -m 'First commit'`
+
 `git remote add origin git@github.com:user-name/repo-name.git`
+
 `git remote -v`
+
 `git push origin master`
+
 
 ## Add new file
 `git add . ; git commit -m 'MUST INCLUDE COMMIT MESSAGE' ; git push origin --all`
