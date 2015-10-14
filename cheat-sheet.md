@@ -6,7 +6,6 @@
 `git init`
 
 Confirm there is at least one file, empty or not. I usually install a `README.md` and `LICENSE.md` from a stock blank.
-
 ```
 LaptopNames-MBP:getting-started laptop-name$ ls
 
