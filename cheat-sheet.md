@@ -20,6 +20,9 @@ LICENSE.md	README.md
 `git remote -v`
 
 `git push origin master`
+```
+git init ; git add . ; git commit -m 'First commit' ; git remote add origin git@github.com:user-name/repo-name.git ; git remote -v ; git push origin master
+```
 
 
 ## Add new file
