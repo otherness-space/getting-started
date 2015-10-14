@@ -13,7 +13,6 @@ LaptopNames-MBP:getting-started laptop-name$ ls
 LICENSE.md	README.md
 
 ```
-
 `git add . `
 
 `git commit -m 'First commit'`
