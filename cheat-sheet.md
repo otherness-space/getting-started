@@ -7,7 +7,12 @@
 
 Confirm there is at least one file, empty or not. I usually install a README.md and LICENSE.md from a stock blank.
 
-`ls`
+```
+LaptopNames-MBP:getting-started laptop-name$ ls
+
+LICENSE.md	README.md
+
+```
 
 `git add . `
 
