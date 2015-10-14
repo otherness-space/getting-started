@@ -10,10 +10,10 @@ git remote -v
 git push origin master
 
 ## Add new file
-git add . ; git commit -m '' ; git push origin --all
+git add . ; git commit -m 'MUST INCLUDE COMMIT MESSAGE' ; git push origin --all
 
 ## File changes
-git commit -a -m '' ; git push origin --all
+git commit -a -m 'MUST INCLUDE COMMIT MESSAGE' ; git push origin --all
 
 ## These commands provide information
 git status
