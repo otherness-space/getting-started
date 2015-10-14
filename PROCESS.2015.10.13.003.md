@@ -1,7 +1,7 @@
 # Git commands I use most
 
 ## New local directory
-`cd /Users/user1/Documents/dir/dir/../`
+`cd /Users/user-dir/Documents/dir/dir/../`
 
 `git init`
 
