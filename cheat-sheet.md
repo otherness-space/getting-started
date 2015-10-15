@@ -26,15 +26,15 @@ git init ; git add . ; git commit -m 'First commit' ; git remote add origin git@
 
 
 ## Add new file
-`git add . ; git commit -m 'MUST INCLUDE COMMIT MESSAGE' ; git push origin --all`
+`git add . ; git commit -m 'MUST INCLUDE COMMIT MESSAGE' ; git push origin --all ; git status ; git branch ; git diff`
 
-`git add . ; git commit -m '' ; git push origin --all`
+`git add . ; git commit -m '' ; git push origin --all ; git status ; git branch ; git diff`
 
 
 ## File changes
-`git commit -a -m 'MUST INCLUDE COMMIT MESSAGE' ; git push origin --all`
+`git commit -a -m 'MUST INCLUDE COMMIT MESSAGE' ; git push origin --all ; git status ; git branch ; git diff`
 
-`git commit -a -m '' ; git push origin --all`
+`git commit -a -m '' ; git push origin --all ; git status ; git branch ; git diff`
 
 
 ## These commands provide information
@@ -54,6 +54,8 @@ git init ; git add . ; git commit -m 'First commit' ; git remote add origin git@
 
 `git log --oneline --decorate --graph --all`
 
+`git status ; git diff`
+
 
 ## Create and select a branch
 `git branch [branch name]`
@@ -64,9 +66,13 @@ git init ; git add . ; git commit -m 'First commit' ; git remote add origin git@
 ## Combines the previous two
 `git checkout -b [branch name]`
 
+`git checkout -b [] ; git status ; git branch ; git diff`
+
 
 ## Merge obviously
 `git merge [branch name]`
+
+`git checkout master ; git status ; git branch ; git diff; [branch-name]; git status ; git branch ; git diff; `
 
 
 ## Stage and commit
@@ -75,7 +81,7 @@ git init ; git add . ; git commit -m 'First commit' ; git remote add origin git@
 `git commit -m 'Narrative'`
 
 
-## Combines the previous two but it didn't work on a new file just on file changes
+## Combines the previous It does't work on a new file addition, just on file changes, in my experience
 `git commit -a -m 'Narrative'`
 
 
